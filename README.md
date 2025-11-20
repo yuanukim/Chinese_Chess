@@ -1,5 +1,5 @@
 # Chinese_Chess
-##### Chinese chess game with AI (min-max and alpha-beta pruning), playing under the windows/linux/freebsd command line. This project provides both C version and C++ version.
+##### Chinese chess game with AI (min-max and alpha-beta pruning, with multi-thread speed up), playing under the windows/linux/freebsd command line. This project provides both C version and C++ version.
 ##### you can just compile it with the basic gcc command, or using cmake to build it, the cmake command on windows just like:
 ```shell
 cd Chinese_Chess
